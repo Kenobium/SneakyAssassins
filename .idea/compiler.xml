@@ -3,10 +3,11 @@
   <component name="CompilerConfiguration">
     <annotationProcessing>
       <profile name="Annotation profile for SneakyAssassins" enabled="true">
-        <sourceOutputDir name="../../Downloads/server16/plugins/generated-sources/annotations" />
-        <sourceTestOutputDir name="../../Downloads/server16/plugins/generated-test-sources/test-annotations" />
+        <sourceOutputDir name="C:/Users/Dhruv/Downloads/server16/plugins/generated-sources/annotations" />
+        <sourceTestOutputDir name="C:/Users/Dhruv/Downloads/server16/plugins/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="SA" />
+        <module name="SneakyAssassins" />
       </profile>
     </annotationProcessing>
   </component>
