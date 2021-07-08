@@ -1,0 +1,8 @@
+name: SneakyAssassins
+main: ninja.highground.sneakyassassins.SneakyAssassins
+version: 1.0
+author: Kenobium
+api-version: 1.16
+commands:
+  sa:
+    description: Manage a Sneaky Assassins game.
