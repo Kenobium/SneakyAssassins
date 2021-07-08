@@ -87,7 +87,7 @@ public class SACmd implements CommandExecutor {
             @Override
             public void run() {
                 if (i != 0) {
-                    player.sendTitle(ChatColor.GREEN + "Game starts in " + i, null, -1, -1, -1);
+                    player.sendTitle(ChatColor.GREEN + "Game starts in " + i, null);
                     i--;
                 } else {
                     player.resetTitle();
